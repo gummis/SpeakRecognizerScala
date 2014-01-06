@@ -1,6 +1,7 @@
 package sly.speakrecognizer.modules.soundanalyzer;
 
 import sly.speakrecognizer.SERuntimeException;
+
 import sly.speakrecognizer.modules.AbstractModule;
 import sly.speakrecognizer.modules.Data;
 import sly.speakrecognizer.modules.Module;
